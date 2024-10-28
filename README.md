@@ -1,4 +1,4 @@
-hi
+![hi](https://github.com/forhn37/forhn37/blob/main/images/hithere.gif)
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%; margin: auto;">
   <a href="#">
@@ -9,9 +9,14 @@ hi
   </a>
 </div>
 
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with
+<img src="https://skillicons.dev/icons?i=js,nodejs,ts,supabase,html,css,figma,git,github,mysql,nextjs,notion,tailwind,vercel,vscode">
+> Tools and technologies that I am interested in
+<img src="https://skillicons.dev/icons?i=py,react,cpp,styledcomponents,java,kubernetes,docker,django,fastapi,mongodb,nestjs,linux,ubuntu">
 
 
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm">
 <div></div>
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
