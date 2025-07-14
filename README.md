@@ -16,8 +16,8 @@ Hello! I’m Hyun Kim, a developer taking on new challenges. There’s so much t
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with
-<img src="https://skillicons.dev/icons?i=js,nodejs,ts,supabase,html,css,java,git,github,mysql,nextjs,notion,tailwind,vercel,vscode">
+<img src="https://skillicons.dev/icons?i=js,nodejs,ts,supabase,html,css,git,github,mysql,nextjs,notion,tailwind,vercel,vscode">
 
 > Tools and technologies that I am interested in
-<img src="https://skillicons.dev/icons?i=py,react,c,styledcomponents,java,kubernetes,docker,django,fastapi,mongodb,nestjs,linux,ubuntu">
+<img src="https://skillicons.dev/icons?i=py,react,c,python,java,kubernetes,docker,django,fastapi,mongodb,nestjs,linux,ubuntu,redis">
 
